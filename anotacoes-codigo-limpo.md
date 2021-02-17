@@ -2,7 +2,7 @@
 
 Estilo de programação que visa desenvolver software de **fácil manutenção**.
 
-# Característicos
+# Características
 
 Software que atende ao Código Limpo satisfaz as seguintes características:
 
